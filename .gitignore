@@ -1,0 +1,13 @@
+# Local
+.DS_Store
+*.local
+*.log*
+*.aider*
+!.aider.config.yml
+
+# Dist
+node_modules
+dist/
+
+# IDE
+*.swap
